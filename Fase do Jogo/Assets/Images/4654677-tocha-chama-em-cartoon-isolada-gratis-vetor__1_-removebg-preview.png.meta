@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 08b4c8aaf9d0d6e4687a7ae7a8736a9e
+guid: b662a7f93356898479d1d2c48801dd70
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6748805946812711350
-    second: pngtree-dark-horror-house-on-creepy-and-foggy-environment-with-big-moon-image_16206552_0
+      213: 6686243830721535318
+    second: 4654677-tocha-chama-em-cartoon-isolada-gratis-vetor__1_-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,17 +122,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-dark-horror-house-on-creepy-and-foggy-environment-with-big-moon-image_16206552_0
+      name: 4654677-tocha-chama-em-cartoon-isolada-gratis-vetor__1_-removebg-preview_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 774
-        height: 260
+        width: 400
+        height: 624
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b1c0dd704398ad50800000000000000
-      internalID: 6748805946812711350
+      spriteID: 65dddcbb65f4acc50800000000000000
+      internalID: 6686243830721535318
       vertices: []
       indices: 
       edges: []
@@ -160,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      4654677-tocha-chama-em-cartoon-isolada-gratis-vetor__1_-removebg-preview_0: 6686243830721535318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

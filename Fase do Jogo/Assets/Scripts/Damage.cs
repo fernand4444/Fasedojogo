@@ -1,4 +1,8 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DamageOnContact : MonoBehaviour
 {
@@ -14,6 +18,16 @@ public class DamageOnContact : MonoBehaviour
             {
                 playerHealth.TakeDamage(damage);
             }
+
+            else
+            {
+                Die();
+            }
         }
+    }
+    void Die()
+    {
+        Debug.Log("Player morreu!");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
