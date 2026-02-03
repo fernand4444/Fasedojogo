@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b7010b6537a4cf943b7d536b3a08626b
+guid: cae6b87e97d46b642bd944281bd6f68c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6024994605845041721
-    second: pngtree-white-fog-smoke-effect-in-water-color-style-isolated-png-image_11461889_0
+      213: -6759718531807345617
+    second: protagonista quadro 3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,7 +97,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-white-fog-smoke-effect-in-water-color-style-isolated-png-image_11461889_0
+      name: protagonista quadro 3_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 98
-        width: 344
-        height: 183
+        x: 17
+        y: 1
+        width: 907
+        height: 1031
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 932d9071ca41d9350800000000000000
-      internalID: 6024994605845041721
+      spriteID: f248ff15fc7a032a0800000000000000
+      internalID: -6759718531807345617
       vertices: []
       indices: 
       edges: []
